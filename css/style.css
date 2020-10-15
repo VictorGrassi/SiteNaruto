@@ -1,0 +1,36 @@
+body{
+	background-image: url("../img/BackGround.jpg"); 
+	background-size: cover; 
+	background-repeat: no-repeat;
+}
+.menu{
+	background: black;
+	padding-right: 10px;
+}
+li a, b{
+	color: #d1b281;
+}
+.top{
+	font-weight: 700;
+}
+.banner{
+	width: 1000px;
+	height: 500px;
+}
+.sub, b{
+	padding-right: 10px;
+}	
+h1{
+	background-image: url("../img/Menu.jpg"); 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+}
+.historia{
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 17px;
+	font-weight: 500;
+}
